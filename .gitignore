@@ -1,2 +1,5 @@
 .idea
 .vscode
+*.bak
+*.1
+*.2

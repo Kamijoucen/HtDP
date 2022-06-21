@@ -15,3 +15,10 @@
 (+ 1 3 4 5)
 
 (+ 2 (+ 3 4))
+
+(string-append "name" "lisicen")
+
+(+ (string-length "abcd")
+   20)
+
+(string=? "1" "1")
